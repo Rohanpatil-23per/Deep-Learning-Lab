@@ -1,2 +1,2 @@
-# Deep-Learning
-Consist of Deep Learning Assignments and Course Project
+# Deep-Learning Lab
+Consist of Deep Learning Lab Assignments 
